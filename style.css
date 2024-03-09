@@ -223,3 +223,13 @@
     font-weight: bold;
     letter-spacing: 2px;
 }
+@media only screen and (max-width: 768px) {
+    #wrapper {
+        padding: 20px;
+    }
+
+    .container {
+        width: 90%;
+        gap: 20px;
+    }
+}
