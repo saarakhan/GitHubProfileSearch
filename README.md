@@ -1,6 +1,6 @@
 
 # GitHub Profile Search Webiste 
-**Live Link**:  https://saarakhan.github.io/GitHubProfileSearch/
+# [Live Link](https://65ec9b79d83a6dcba775138c--singular-stardust-599adc.netlify.app/)
 
 **Overview:**
 
